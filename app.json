@@ -10,12 +10,12 @@
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "918822021347"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "KULFI"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -30,7 +30,7 @@
     "PREFIX": {
       "description": "Set Your Prefix Here",
       "required": true,
-      "value": "."
+      "value": "\"
     },
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
@@ -40,17 +40,17 @@
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "KULFI"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "EDITED    BY    KULFI"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "918822021347, 917662987677"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
@@ -65,7 +65,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
       "required": false,
-      "value": "true"
+      "value": "false"
      },
      "AUTO_BLOCK": {
       "description": "Set A Contary Code To Auto banned if u wanna",
